@@ -16,9 +16,6 @@ paginate = 5
 
   autoCover = true
 
-  # Table of contents?
-  Toc = true
-
   # show selector to switch language
   showLanguageSelector = false
 
